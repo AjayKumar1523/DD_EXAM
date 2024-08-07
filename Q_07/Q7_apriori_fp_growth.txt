@@ -1,5 +1,9 @@
-Implement using R language in which age group of people 
-are affected byblood pressure 
-based on the diabetes dataset show it using 
-scatterplot and bar chart (that is BloodPressure vs Age using 
-dataset “diabetes.csv”)
+Implement using WEKA for the given Suppose a database has five transactions. Let min sup= 50%(2) and min con f = 80%.
+Transactions Items
+T1 (M, O, N, K, E, Y)
+T2 (D, O, N, K, E, Y)
+T3 (M, A, K, E)
+T4 (M, U, C, K, Y)
+T5 (C,O, O, K, I ,E)
+• Find all frequent item sets using Apriori algorithm
+• Also draw FP-Growth Tree
