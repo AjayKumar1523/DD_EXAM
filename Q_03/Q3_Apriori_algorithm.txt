@@ -1,0 +1,17 @@
+Implement using WEKA for the given Apply Apriori Algorithm for given database below Assume Min_sup=2 TID Items
+
+Bread, Peanuts, Milk, Fruit, Jam
+
+Bread, Jam, Soda, Chips, Milk, Fruit
+
+Steak, Jam, Soda, Chips, Bread
+
+Jam, Soda, Peanuts, Milk, Fruit
+
+Jam, Soda, Chips, Milk, Bread
+
+Fruit, Soda, Chips, Milk
+
+Fruit, Soda, Peanuts, Milk
+
+Fruit, Peanuts, Cheese, Yogurt
