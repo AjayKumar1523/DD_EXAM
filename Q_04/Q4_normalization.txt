@@ -1,0 +1,6 @@
+Use following group of data: 200, 300, 400, 600, 1000
+(a) min-max normalization by setting min = 0 and max = 1 (b)
+(b) z-score normalization
+(c) (c) z-score normalization using the mean absolute 
+deviation instead of standard deviation (d) normalization by 
+decimal scaling
