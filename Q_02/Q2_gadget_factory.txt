@@ -1,0 +1,9 @@
+A gadget factory has been quite successful for the past 
+10 years and Ms.Marry, the manager of the company wondering 
+whether to expand the factory this year or not. The cost to
+expand factory is $2M. With no expansion, expected revenue is $4M 
+if the economy stays good; while only $1.5M if the economy is bad. 
+If manager expands the factory, expected to receive $7M. if economy 
+is good and $3M if economy is bad. Assume that there is a 45% chance 
+of a good economy and a 55% chance of a bad economy. Draw a Decision 
+Tree showing these choices.
