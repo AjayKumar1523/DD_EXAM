@@ -1,0 +1,4 @@
+Implement of the R script using a group of 12 sales price records has been sorted as follows: 5, 10, 11, 13, 15, 35, 50, 55, 72, 92, 204, 215. Partition them into three bins by each of the following methods.
+(a) equal-frequency (equi depth) partitioning
+(b) equal-width partitioning
+(c) clustering
