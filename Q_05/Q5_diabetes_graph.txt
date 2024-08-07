@@ -1,0 +1,5 @@
+Implement using R language in which age group of people 
+are affected byblood pressure 
+based on the diabetes dataset show it using 
+scatterplot and bar chart (that is BloodPressure vs Age using 
+dataset “diabetes.csv”)
