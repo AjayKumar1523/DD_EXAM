@@ -1,0 +1,6 @@
+﻿user_id,age,gender,location,device_type,ad_id,ad_category,ad_position,ad_format,ad_targeting,website_id,page_type,time_on_page
+1,25,Male,US,Mobile,101,Technology,Top,Banner,TRUE,1001,Home,45
+2,34,Female,UK,Desktop,102,Fashion,Sidebar,Video,FALSE,1002,Article,30
+3,29,Other,India,Tablet,103,Food,Footer,Text,TRUE,1003,Product Page,120
+4,45,Female,Canada,Mobile,104,Technology,Sidebar,Banner,TRUE,1001,Home,60
+5,22,Male,Australia,Desktop,105,Sports,Top,Video,FALSE,1004,Article,25

@@ -1,0 +1,11 @@
+﻿customer_id,percentage_emails_opened,num_clicks_per_email,time_spent_viewing_email
+1,75,2,30
+2,50,1,20
+3,90,3,45
+4,20,0.5,10
+5,60,1.5,25
+6,85,2.5,35
+7,40,1,15
+8,70,2,30
+9,30,0.8,12
+10,95,3.5,50

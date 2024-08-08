@@ -1,0 +1,13 @@
+@relation market_basket
+
+@attribute item {milk, bread, butter, cheese, eggs, jam, soda, chips}
+
+@data
+{0 milk, 1 bread, 2 butter}
+{0 milk, 1 bread, 3 cheese}
+{0 milk, 4 eggs}
+{1 bread, 4 eggs, 5 jam}
+{1 bread, 2 butter, 3 cheese}
+{0 milk, 2 butter, 6 soda}
+{0 milk, 1 bread, 6 soda, 7 chips}
+{0 milk, 1 bread, 2 butter, 3 cheese}

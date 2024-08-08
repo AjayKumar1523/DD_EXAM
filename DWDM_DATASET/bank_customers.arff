@@ -1,0 +1,14 @@
+@relation bank_customers
+
+@attribute Marital_status {married, single, divorced}
+@attribute Gender {male, female}
+@attribute Age {18-30, 30-50, 50-65, 65+}
+@attribute Income {10K-25K, 25K-50K, 50K-65K, 65K-100K, 100K+}
+@attribute Class {good, bad}
+
+@data
+married,male,30-50,25K-50K,good
+single,female,18-30,10K-25K,bad
+divorced,male,50-65,50K-65K,good
+married,female,65+,65K-100K,good
+single,male,18-30,10K-25K,bad

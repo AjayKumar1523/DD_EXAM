@@ -1,0 +1,11 @@
+@relation items_bought
+
+@attribute TID string
+@attribute items_bought string
+
+@data
+T100, 'M, O, N, K, E, Y'
+T200, 'D, O, N, K, E, Y'
+T300, 'M, A, K, E'
+T400, 'M, U, C, K, Y'
+T500, 'C, O, O, K, I, E'

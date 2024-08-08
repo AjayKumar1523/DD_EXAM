@@ -1,0 +1,26 @@
+@relation ad_clicks
+
+@attribute user_id numeric
+@attribute age numeric
+@attribute gender {Male, Female, Other}
+@attribute location string
+@attribute device_type {Desktop, Mobile, Tablet}
+@attribute ad_id numeric
+@attribute ad_category {Technology, Fashion, Food, Sports}
+@attribute ad_position {Top, Sidebar, Footer}
+@attribute ad_format {Banner, Video, Text}
+@attribute ad_targeting {True, False}
+@attribute website_id numeric
+@attribute page_type {Home, Article, Product Page}
+@attribute time_on_page numeric
+@attribute num_previous_clicks numeric
+@attribute interaction_time {Morning, Afternoon, Evening, Night}
+@attribute scroll_depth numeric
+@attribute clicked {0, 1}
+
+@data
+1, 25, Male, US, Mobile, 101, Technology, Top, Banner, True, 1001, Home, 45, 3, Morning, 80, 1
+2, 34, Female, UK, Desktop, 102, Fashion, Sidebar, Video, False, 1002, Article, 30, 1, Evening, 50, 0
+3, 29, Other, India, Tablet, 103, Food, Footer, Text, True, 1003, Product Page, 120, 5, Afternoon, 20, 1
+4, 45, Female, Canada, Mobile, 104, Technology, Sidebar, Banner, True, 1001, Home, 60, 0, Night, 90, 0
+5, 22, Male, Australia, Desktop, 105, Sports, Top, Video, False, 1004, Article, 25, 2, Morning, 40, 1
